@@ -1,4 +1,4 @@
 # assatoolex.github.io
 HTTPS web repo
 
-htths://assatoolex.github.io/wapp
+https://assatoolex.github.io/wapp
