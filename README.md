@@ -1,4 +1,6 @@
 # assatoolex.github.io
 HTTPS web repo
 
-https://assatoolex.github.io/wapp
+https://assatoolex.github.io/
+
+Мобильное web-приложение: [wapp](wapp/)
